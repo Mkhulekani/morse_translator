@@ -33,7 +33,7 @@ A fun and interactive Morse Code Translator desktop app inspired by **R2-D2** fr
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/morse-r2d2-translator.git
+    git clone https://https://github.com/Mkhulekani/morse_translator.git
     cd morse-r2d2-translator
     ```
 
