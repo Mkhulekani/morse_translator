@@ -21,12 +21,6 @@ A fun and interactive Morse Code Translator desktop app inspired by **R2-D2** fr
 
 ---
 
-## 📸 Preview
-
-> _(UI not displayed here but it has tabs for Encoding and Decoding, styled in dark mode with buttons and live feedback)_
-
----
-
 ## 🛠 Requirements
 
 - Python 3.8 or newer
