@@ -71,9 +71,8 @@ Decoding: Splits Morse input (using space and /) to identify original text.
 Sound playback: Uses winsound.Beep() for . and - with delays between elements.
 
 📂 Project Structure
-bash
-Copy
-Edit
+
+
 ├── App.py           # Main GUI app
 ├── test_app.py      # Unit tests
 ├── README.md        # Project description
@@ -88,8 +87,6 @@ Inspired by R2-D2 and the Rebel Alliance. May the Force be with your code! ✨
 📜 License
 MIT License. See LICENSE file for details.
 
-vbnet
-Copy
-Edit
+
 
 Let me know if you want to include screenshots, installation packages, or convert this into a GitH
